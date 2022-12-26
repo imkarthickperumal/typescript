@@ -1,0 +1,15 @@
+TypeScript:
+
+26-12-2022
+
+-> Superset of JavaScripts
+-> Static Typing
+-> Advanced Futures like interface, Tuples and Generics etc.
+
+Major Different:
+JavaScripts la oru variable declare panupothu run time la ta datatype(num,string) check pana mudiyum.
+TypeScript la variable declare panupothu datatype compile time la check panalam so Advanced TypeScript.
+
+TypeScript Compiler :
+-> Browser can only understand Js
+-> TS needs to be compiled to JS
