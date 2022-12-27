@@ -13,3 +13,5 @@ TypeScript la variable declare panupothu datatype compile time la check panalam 
 TypeScript Compiler :
 -> Browser can only understand Js
 -> TS needs to be compiled to JS
+
+
